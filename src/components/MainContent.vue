@@ -2,22 +2,19 @@
     <!-- Main Content -->
     <div id="content">
         <TopBar></TopBar>
-        <!-- Begin Page Content -->
-        <div class="container-fluid">
-            <!-- Page Heading -->
-            <h1 class="h3 mb-4 text-gray-800">Blank Page</h1>
-        </div>
-        <!-- /.container-fluid -->
+        <DefaultVue></DefaultVue>        
     </div>
     <!-- End of Main Content -->
 </template>
 
 <script>
 import TopBar from "./TopBar.vue"
+import DefaultVue from "./DefaultVue.vue"
 export default {
     name: 'MainContent',
     components: {
         TopBar,
+        DefaultVue
     }
 }
 </script>
