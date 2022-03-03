@@ -58,7 +58,7 @@
 
 <script>
 export default {
-    name: "AlertsVue",
+    name: "AlertsVue", //naming has been done
 }
 </script>
 

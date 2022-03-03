@@ -11,7 +11,7 @@
             aria-expanded="false"
         >
             <span class="mr-2 d-none d-lg-inline text-gray-600 small">Douglas McGee</span>
-            <img class="img-profile rounded-circle" src="img/undraw_profile.svg" />
+            <img class="img-profile rounded-circle" src="../assets/img/undraw_profile.svg" />
         </a>
         <!-- Dropdown - User Information -->
         <div
