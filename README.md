@@ -12,6 +12,8 @@
 `npm run serve`
 
 The SB Admin 2 blank page design has been disassembled using vue js. Head part is embedded in index.html. The components in the body were grouped and added to the vue files.
+
+### File Structure
 ```
 src
 ├── assets
